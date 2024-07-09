@@ -36,6 +36,7 @@ Updating Shopify Dawn
 To update the base Dawn theme, follow these steps:
 
 Fetch the latest changes from Shopify's Dawn repository:
+```bash
 git remote add dawn https://github.com/Shopify/dawn.git
 git fetch dawn
 
