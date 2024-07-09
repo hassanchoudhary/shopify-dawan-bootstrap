@@ -4,7 +4,7 @@ This is a custom Shopify theme based on the Dawn theme, enhanced with Bootstrap 
 
 ## Features
 
-- **Bootstrap Integration**: Full Bootstrap 5 support, including grid system, components, and utilities.
+- **Bootstrap Integration**: Full Bootstrap support, including grid system, components, and utilities.
 - **Responsive Design**: Optimized for all devices, ensuring a seamless shopping experience on desktops, tablets, and mobile phones.
 - **Customizable Components**: Easily modify and extend components using Bootstrap classes.
 - **Modern UI/UX**: Clean and modern design inspired by the Shopify Dawn theme.
